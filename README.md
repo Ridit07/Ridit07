@@ -79,7 +79,7 @@ Predicts IPL **player performance metrics** using historical data, not just matc
 ---
 
 ### 🏆 Competitive Programming
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.linkedin.com/in/ridit-jain-479230214/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ridit_jain19/)
 
 
 ### 🤝 Connect with Me
