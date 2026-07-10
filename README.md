@@ -72,8 +72,16 @@ Predicts IPL **player performance metrics** using historical data, not just matc
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridit07&show_icons=true&theme=radical" alt="Ridit Jain's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridit07&layout=compact&theme=radical" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ridit07&show_icons=true&theme=radical&cache_seconds=1800"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridit07&layout=compact&theme=radical&cache_seconds=1800"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 ---
